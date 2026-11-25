@@ -1,6 +1,6 @@
 # Raqib: Arabic Customer-Complaint NLP Prototype
 
-A small prototype built during the SDAIA Academy *Applied NLP* course (Labs 1 to 6).
+A small prototype built during the @SDAIAAcademy *Applied NLP* course (Labs 1 to 6).
 It reads customer complaints written in Arabic (Saudi white dialect, with Lebanese
 examples for comparison), classifies them by topic, and finds similar complaints.
 
